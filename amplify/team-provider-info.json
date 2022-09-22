@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-codegeneratorauthent-staging-71719-authRole",
+      "UnauthRoleArn": "arn:aws:iam::487228406186:role/amplify-codegeneratorauthent-staging-71719-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::487228406186:role/amplify-codegeneratorauthent-staging-71719-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-codegeneratorauthent-staging-71719-deployment",
+      "UnauthRoleName": "amplify-codegeneratorauthent-staging-71719-unauthRole",
+      "StackName": "amplify-codegeneratorauthent-staging-71719",
+      "StackId": "arn:aws:cloudformation:us-east-1:487228406186:stack/amplify-codegeneratorauthent-staging-71719/9a0815d0-358f-11ed-a969-122479817a53",
+      "AmplifyAppId": "d2j72vl8kwss50"
+    },
+    "categories": {
+      "auth": {
+        "CodeGeneratorAuthentication": {}
+      }
+    }
+  }
+}

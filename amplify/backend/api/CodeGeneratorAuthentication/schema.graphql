@@ -1,0 +1,6 @@
+type Sites @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  SiteAddress: String!
+  SiteID: String!
+  AddedBy: String!
+}
